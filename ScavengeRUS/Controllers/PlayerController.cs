@@ -19,7 +19,7 @@ namespace ScavengeRUS.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(Player newPlayer)
         {
-            if (ModelState.IsValid)
+            if (ModelState.IsValid) 
             {
                 await _playerRepo.Create(newPlayer);
                 return RedirectToAction("Index", "Home");
