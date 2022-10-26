@@ -10,7 +10,7 @@ namespace ScavengeRUS.Services
         {
             _db = db;
         }
-        public ICollection<Admin>? GetAll()
+        public ICollection<Admin> GetAll()
         {
             return _db.Admin.ToList();
         }
