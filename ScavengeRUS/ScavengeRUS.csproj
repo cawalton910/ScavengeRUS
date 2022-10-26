@@ -5,7 +5,8 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <StartupObject></StartupObject>
-    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <PublishWithAspNetCoreTargetManifest>false</PublishWithAspNetCoreTargetManifest>
+    <!--<GeneratePackageOnBuild>False</GeneratePackageOnBuild>-->
     <UserSecretsId>065b0adc-e5bd-46f1-8bed-53772e84c802</UserSecretsId>
   </PropertyGroup>
 
