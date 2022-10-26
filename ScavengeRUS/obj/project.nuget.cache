@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MZWX5qVUmwxPhepRvQnpkr5My4gsg4coymVZSWUWdAah3Wf/+wsGdt4WdiRrGsIsKAIWQUOn58icKUEEzM/wzQ==",
+  "dgSpecHash": "TU0GwLFG3Dg749EdpFcHyfwe81CkjhQccYrEnRdpi/ioK1mG/oJagxWCGDsXRYZvv4RHEv/oY0hq82FTHkK6cg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\ScavengeRUS.csproj",
   "expectedPackageFiles": [
@@ -37,7 +37,7 @@
     "C:\\Users\\Chase\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.10\\microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",
     "C:\\Users\\Chase\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.10\\microsoft.entityframeworkcore.design.6.0.10.nupkg.sha512",
     "C:\\Users\\Chase\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.10\\microsoft.entityframeworkcore.relational.6.0.10.nupkg.sha512",
-    "C:\\Users\\Chase\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.8\\microsoft.entityframeworkcore.sqlserver.6.0.8.nupkg.sha512",
+    "C:\\Users\\Chase\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.10\\microsoft.entityframeworkcore.sqlserver.6.0.10.nupkg.sha512",
     "C:\\Users\\Chase\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.10\\microsoft.entityframeworkcore.tools.6.0.10.nupkg.sha512",
     "C:\\Users\\Chase\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Chase\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",

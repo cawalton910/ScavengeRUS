@@ -1,7 +1,12 @@
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\ScavengeRUS
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.Development.json
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\out\appsettings.Development.json
+C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\out\appsettings.json
+C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\out\ScavengeRUS.deps.json
+C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\out\ScavengeRUS.runtimeconfig.json
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\ScavengeRUS.dll
+C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\ScavengeRUS.deps.json
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\ScavengeRUS.runtimeconfig.json
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\ScavengeRUS.pdb
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\Microsoft.CSharp.dll
@@ -338,6 +343,7 @@ C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\Microsoft.DotNet.Scaffolding.Shared.dll
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
@@ -535,4 +541,3 @@ C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\linux-x64\PubTmp\Out\ScavengeRUS.deps.json

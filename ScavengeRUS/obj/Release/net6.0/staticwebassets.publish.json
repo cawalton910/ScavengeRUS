@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+lSP6ZvxgMLgZrSvypaSxn9Gna9wkKftorH7UxqXi9w=",
+  "Hash": "FQnWCDJr89Wwh+xyzH5ZVDSLguWk7NTA0lhwv8fPVng=",
   "Source": "ScavengeRUS",
   "BasePath": "_content/ScavengeRUS",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\obj\\Release\\net6.0\\scopedcss\\bundle\\ScavengeRUS.styles.css",
+      "Identity": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\obj\\Release\\net6.0\\linux-x64\\scopedcss\\bundle\\ScavengeRUS.styles.css",
       "SourceId": "ScavengeRUS",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\obj\\Release\\net6.0\\linux-x64\\scopedcss\\bundle\\",
       "BasePath": "_content/ScavengeRUS",
       "RelativePath": "ScavengeRUS.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\obj\\Release\\net6.0\\scopedcss\\bundle\\ScavengeRUS.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\obj\\Release\\net6.0\\linux-x64\\scopedcss\\bundle\\ScavengeRUS.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\ScavengeRUS.bundle.scp.css",
+      "Identity": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\obj\\Release\\net6.0\\linux-x64\\scopedcss\\projectbundle\\ScavengeRUS.bundle.scp.css",
       "SourceId": "ScavengeRUS",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\obj\\Release\\net6.0\\linux-x64\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ScavengeRUS",
       "RelativePath": "ScavengeRUS.bundle.scp.css",
       "AssetKind": "All",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\ScavengeRUS.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\obj\\Release\\net6.0\\linux-x64\\scopedcss\\projectbundle\\ScavengeRUS.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\Chase\\source\\repos\\ScavengeRUS\\ScavengeRUS\\wwwroot\\css\\site.css",
