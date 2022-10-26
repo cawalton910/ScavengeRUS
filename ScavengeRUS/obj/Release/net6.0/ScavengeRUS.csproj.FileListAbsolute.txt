@@ -262,3 +262,7 @@ C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\refint\Sc
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\ScavengeRUS.pdb
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\ScavengeRUS.genruntimeconfig.cache
 C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\obj\Release\net6.0\ref\ScavengeRUS.dll
+C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\bin\Release\net6.0\out\appsettings.Development.json
+C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\bin\Release\net6.0\out\appsettings.json
+C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\bin\Release\net6.0\out\ScavengeRUS.deps.json
+C:\Users\Chase\source\repos\ScavengeRUS\ScavengeRUS\bin\Release\net6.0\out\ScavengeRUS.runtimeconfig.json
